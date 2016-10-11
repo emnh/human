@@ -1,10 +1,15 @@
 # human
 
-FIXME: Write a one-line description of your library/project.
+Trying to model human procedurally in 3D. Face first.
+Want an iteratively refinable model suspectible to animation / deformation.
 
-## Overview
+## Resources
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+ - [three.js examples bump map skin](https://threejs.org/examples/?q=materials#webgl_materials_bumpmap_skin)
+ - [Human face closeup (Angelina Jolie)](http://yesofcorsa.com/wp-content/uploads/2015/07/4801_angelina_jolie.jpg)
+ - [Facial Muscles @ Wikipedia](https://en.wikipedia.org/wiki/Facial_muscles)
+ - [Human skull](https://cdnb3.artstation.com/p/assets/images/images/000/227/915/large/ivan-mityaev-skull-front.jpg?1443931826)
+
 
 ## Setup
 
